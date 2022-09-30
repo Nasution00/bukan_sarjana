@@ -120,6 +120,191 @@ const account = {
       id: "180613328",
       nickname: "-",
     },
+    {
+      id: "140400278",
+      nickname: "-",
+    },
+    {
+      id: "135912429",
+      nickname: "-",
+    },
+    {
+      id: "140386389",
+      nickname: "-",
+    },
+    {
+      id: "229415560",
+      nickname: "-",
+    },
+    {
+      id: "254080060",
+      nickname: "-",
+    },
+    {
+      id: "39449030",
+      nickname: "-",
+    },
+    {
+      id: "241351375",
+      nickname: "-",
+    },
+    {
+      id: "121710782",
+      nickname: "-",
+    },
+    {
+      id: "180608868",
+      nickname: "-",
+    },
+    {
+      id: "233186173",
+      nickname: "-",
+    },
+    {
+      id: "139562895",
+      nickname: "-",
+    },
+    {
+      id: "241346471",
+      nickname: "-",
+    },
+    {
+      id: "139419367",
+      nickname: "-",
+    },
+    {
+      id: "224290173",
+      nickname: "-",
+    },
+    {
+      id: "181665973",
+      nickname: "-",
+    },
+
+    {
+      id: "115530082",
+      nickname: "-",
+    },
+    {
+      id: "232253440",
+      nickname: "-",
+    },
+    {
+      id: "282441043",
+      nickname: "-",
+    },
+    {
+      id: "282444034",
+      nickname: "-",
+    },
+    {
+      id: "269842511",
+      nickname: "-",
+    },
+    {
+      id: "164006605",
+      nickname: "-",
+    },
+    {
+      id: "140396609",
+      nickname: "-",
+    },
+    {
+      id: "180623052",
+      nickname: "-",
+    },
+    {
+      id: "222580070",
+      nickname: "-",
+    },
+    {
+      id: "204873972",
+      nickname: "-",
+    },
+    {
+      id: "140405438",
+      nickname: "-",
+    },
+    {
+      id: "139469150",
+      nickname: "-",
+    },
+    {
+      id: "138572787",
+      nickname: "-",
+    },
+    {
+      id: "304625875",
+      nickname: "-",
+    },
+    {
+      id: "276357212",
+      nickname: "-",
+    },
+    {
+      id: "140399136",
+      nickname: "-",
+    },
+    {
+      id: "324700115",
+      nickname: "-",
+    },
+    {
+      id: "324383854",
+      nickname: "-",
+    },
+    {
+      id: "296392585",
+      nickname: "-",
+    },
+    {
+      id: "223004332",
+      nickname: "-",
+    },
+    {
+      id: "241349809",
+      nickname: "-",
+    },
+    {
+      id: "140388982",
+      nickname: "-",
+    },
+    {
+      id: "220328923",
+      nickname: "-",
+    },
+    {
+      id: "229634355",
+      nickname: "-",
+    },
+    {
+      id: "240788820",
+      nickname: "-",
+    },
+    {
+      id: "181658430",
+      nickname: "-",
+    },
+    {
+      id: "140387825",
+      nickname: "-",
+    },
+    {
+      id: "140398535",
+      nickname: "-",
+    },
+    {
+      id: "180610218",
+      nickname: "-",
+    },
+    {
+      id: "241340974",
+      nickname: "-",
+    },
+    {
+      id: "378216196",
+      nickname: "-",
+    },
    {
       id: "APK BARU",
       nickname: "-",
@@ -279,14 +464,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "140400278",
-      nickname: "-",
-    },
-    {
-      id: "135912429",
-      nickname: "-",
-    },
-    {
       id: "180797939",
       nickname: "-",
     },
@@ -295,19 +472,11 @@ const account = {
       nickname: "-",
     },
     {
-      id: "140386389",
-      nickname: "-",
-    },
-    {
       id: "184706273",
       nickname: "-",
     },
     {
       id: "191167048",
-      nickname: "-",
-    },
-    {
-      id: "229415560",
       nickname: "-",
     },
     {
@@ -327,10 +496,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "254080060",
-      nickname: "-",
-    },
-    {
       id: "241355556",
       nickname: "-",
     },
@@ -346,17 +511,9 @@ const account = {
       id: "180624238",
       nickname: "-",
     },
-    {
-      id: "39449030",
-      nickname: "-",
-    },
     //SADSA
     {
       id: "258855900",
-      nickname: "-",
-    },
-    {
-      id: "241351375",
       nickname: "-",
     },
     {
@@ -380,15 +537,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "121710782",
-      nickname: "-",
-    },
-    {
       id: "238825447",
-      nickname: "-",
-    },
-    {
-      id: "180608868",
       nickname: "-",
     },
     {
@@ -436,23 +585,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "233186173",
-      nickname: "-",
-    },
-    {
-      id: "139562895",
-      nickname: "-",
-    },
-    {
-      id: "241346471",
-      nickname: "-",
-    },
-    {
       id: "180611788",
-      nickname: "-",
-    },
-    {
-      id: "139419367",
       nickname: "-",
     },
     {
@@ -460,20 +593,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "224290173",
-      nickname: "-",
-    },
-    {
       id: "140296453",
-      nickname: "-",
-    },
-    {
-      id: "181665973",
-      nickname: "-",
-    },
-
-    {
-      id: "115530082",
       nickname: "-",
     },
     {
@@ -485,14 +605,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "232253440",
-      nickname: "-",
-    },
-    {
-      id: "204873972",
-      nickname: "-",
-    },
-    {
       id: "282442611",
       nickname: "-",
     },
@@ -501,39 +613,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "282441043",
-      nickname: "-",
-    },
-    {
-      id: "282444034",
-      nickname: "-",
-    },
-    {
-      id: "269842511",
-      nickname: "-",
-    },
-    {
-      id: "164006605",
-      nickname: "-",
-    },
-    {
-      id: "140396609",
-      nickname: "-",
-    },
-    {
-      id: "180623052",
-      nickname: "-",
-    },
-    {
-      id: "222580070",
-      nickname: "-",
-    },
-    {
       id: "236254564",
-      nickname: "-",
-    },
-    {
-      id: "140405438",
       nickname: "-",
     },
     {
@@ -566,10 +646,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "139469150",
-      nickname: "-",
-    },
-    {
       id: "234811412",
       nickname: "-",
     },
@@ -578,35 +654,9 @@ const account = {
       nickname: "-",
     },
     {
-      id: "138572787",
-      nickname: "-",
-    },
-    {
-      id: "304625875",
-      nickname: "-",
-    },
-    {
       id: "283471384",
       nickname: "-",
     },
-
-    {
-      id: "276357212",
-      nickname: "-",
-    },
-    {
-      id: "140399136",
-      nickname: "-",
-    },
-    {
-      id: "324700115",
-      nickname: "-",
-    },
-    {
-      id: "324383854",
-      nickname: "-",
-    },
-
     {
       id: "229553426",
       nickname: "-",
@@ -621,10 +671,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "296392585",
-      nickname: "-",
-    },
-    {
       id: "330945281",
       nickname: "-",
     },
@@ -633,26 +679,9 @@ const account = {
       nickname: "-",
     },
     {
-      id: "223004332",
-      nickname: "-",
-    },
-    {
       id: "224352588",
       nickname: "-",
     },
-    {
-      id: "241349809",
-      nickname: "-",
-    },
-    {
-      id: "140388982",
-      nickname: "-",
-    },
-    {
-      id: "220328923",
-      nickname: "-",
-    },
-
     {
       id: "225823441",
       nickname: "-",
@@ -666,24 +695,11 @@ const account = {
       nickname: "-",
     },
     {
-      id: "229634355",
-      nickname: "-",
-    },
-    {
       id: "279493408",
       nickname: "-",
     },
     {
       id: "282445207",
-      nickname: "-",
-    },
-
-    {
-      id: "240788820",
-      nickname: "-",
-    },
-    {
-      id: "181658430",
       nickname: "-",
     },
     {
@@ -700,10 +716,6 @@ const account = {
     },
 
     //SADS
-    {
-      id: "140387162",
-      nickname: "-",
-    },
     {
       id: "173064313",
       nickname: "-",
@@ -726,24 +738,11 @@ const account = {
       nickname: "-",
     },
     {
-      id: "140387825",
-      nickname: "-",
-    },
-    {
       id: "140095935",
       nickname: "-",
     },
     {
-      id: "140398535",
-      nickname: "-",
-    },
-
-    {
       id: "181663037",
-      nickname: "-",
-    },
-    {
-      id: "180610218",
       nickname: "-",
     },
 
@@ -756,10 +755,6 @@ const account = {
 
     {
       id: "241348117",
-      nickname: "-",
-    },
-    {
-      id: "241340974",
       nickname: "-",
     },
     {
@@ -798,10 +793,6 @@ const account = {
 
     {
       id: "240106744",
-      nickname: "-",
-    },
-    {
-      id: "378216196",
       nickname: "-",
     },
     {
@@ -866,10 +857,6 @@ const account = {
     }, 
     {
       id: "362820336",
-      nickname: "-",
-    },
-    {
-      id: "366929057",
       nickname: "-",
     },
     {
@@ -1102,6 +1089,22 @@ const account = {
     },
 {
       id: "389098001",
+      nickname: "-",
+    },
+    {
+      id: "JIN-2B 29Sep",
+      nickname: "-",
+    },
+    {
+      id: "140387162",
+      nickname: "-",
+    },
+    {
+      id: "JINRN-6B 29Sep",
+      nickname: "-",
+    },
+    {
+      id: "366929057",
       nickname: "-",
     },
   ],
