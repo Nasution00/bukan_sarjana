@@ -29,10 +29,6 @@ const account = {
       nickname: "-",
     },
    {
-      id: "NG 15B, 25sep22",
-      nickname: "-",
-    },
-   {
       id: "140055696",
       nickname: "-",
     },
@@ -40,6 +36,12 @@ const account = {
       id: "139419367",
       nickname: "-",
     },
+   {
+      id: "NOVEMBER",
+      nickname: "-",
+    },
+
+
   ],
 };
 
