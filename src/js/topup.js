@@ -1,10 +1,6 @@
 const account = {
   account: [
 {
-      id: "APK LAMA",
-      nickname: "-",
-},
-{
       id: "367269506",
       nickname: "-",
     },
@@ -98,10 +94,6 @@ const account = {
     },
     {
       id: "229474664",
-      nickname: "-",
-    },
-    {
-      id: "180352965",
       nickname: "-",
     },
     {
@@ -351,6 +343,10 @@ const account = {
     },
     {
       id: "333389198",
+      nickname: "-",
+    },
+    {
+      id: "180352965",
       nickname: "-",
     },
     {
