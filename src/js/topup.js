@@ -141,10 +141,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "180608868",
-      nickname: "-",
-    },
-    {
       id: "233186173",
       nickname: "-",
     },
@@ -283,10 +279,6 @@ const account = {
     },
     {
       id: "378216196",
-      nickname: "-",
-    },
-   {
-      id: "APK BARU",
       nickname: "-",
     },
     {
