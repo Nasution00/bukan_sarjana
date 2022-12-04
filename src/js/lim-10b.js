@@ -45,15 +45,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "2-SF-KM-4,5B",
-      nickname: "-",
-    },
-    {
       id: "416069768",
-      nickname: "-",
-    },
-    {
-      id: "5-SJ-NC-2,5B",
       nickname: "-",
     },
     {
@@ -61,19 +53,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "6-SF-1,5B",
-      nickname: "-",
-    },
-    {
       id: "234811412",
-      nickname: "-",
-    },
-    {
-      id: "9-SD-NR-1,5B",
-      nickname: "-",
-    },
-    {
-      id: "13-SN-2B",
       nickname: "-",
     },
     {
@@ -81,15 +61,7 @@ const account = {
       nickname: "-",
     },
     {
-      id: "11-SN2B-NC3B",
-      nickname: "-",
-    },
-    {
       id: "412648892",
-      nickname: "-",
-    },
-    {
-      id: "13-S4P-ND4B",
       nickname: "-",
     },
     {
@@ -97,31 +69,15 @@ const account = {
       nickname: "-",
     },
     {
-      id: "14-SN-1,5B",
-      nickname: "-",
-    },
-    {
       id: "385859719",
-      nickname: "-",
-    },
-    {
-      id: "14-SN-2,5B",
       nickname: "-",
     },
     {
       id: "314907244",
       nickname: "-",
-    },
-    {
-      id: "18-SF-1,5B",
-      nickname: "-",
-    },
+    },   
     {
       id: "413298673",
-      nickname: "-",
-    },
-    {
-      id: "19-SC-1,5B",
       nickname: "-",
     },
     {
@@ -129,39 +85,19 @@ const account = {
       nickname: "-",
     },
     {
-      id: "23-1,5B",
-      nickname: "-",
-    },
-    {
       id: "181660132",
-      nickname: "-",
-    },
-    {
-      id: "25-1,5B",
       nickname: "-",
     },
     {
       id: "422242626",
       nickname: "-",
     },
-    {
-      id: "29-1,5B",
-      nickname: "-",
-    },
    { 
       id: "429968195",
       nickname: "-",
     },
-  {
-      id: "29-1,5B",
-      nickname: "-",
-    },
     {
       id: "357244066",
-      nickname: "-",
-    },
-  {
-      id: "29-1,5B",
       nickname: "-",
     },
     {
@@ -169,19 +105,33 @@ const account = {
       nickname: "-",
     },
     {
-      id: "30-2,5B",
-      nickname: "-",
-    },
-    {
       id: "338897652",
       nickname: "-",
     },
    {
-      id: "30-8,5B",
+      id: "181663037",
       nickname: "-",
     },
    {
-      id: "181663037",
+      id: "37B",
+      nickname: "-",
+    },
+   {
+      id: "DESEMBER",
+      nickname: "-",
+    },
+    {
+      id: "389034443",
+      nickname: "-",
+    },
+    {
+      id: "233522154",
+      nickname: "-",
+    },
+
+
+   {
+      id: "3B",
       nickname: "-",
     },
 
