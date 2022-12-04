@@ -684,10 +684,6 @@ const account = {
     //   id: "178117533",
     //   nickname: "-",
     // },
-    {
-      id: "233522154",
-      nickname: "-",
-    },
 
     //SADSA
 
@@ -820,10 +816,6 @@ const account = {
     },
     {
       id: "366929057",
-      nickname: "-",
-    },
-    {
-      id: "389034443",
       nickname: "-",
     },
     {
