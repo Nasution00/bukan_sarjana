@@ -310,10 +310,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "333389198",
-      nickname: "-",
-    },
-    {
       id: "180352965",
       nickname: "-",
     },
