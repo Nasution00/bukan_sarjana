@@ -151,8 +151,11 @@ for (let i = 0; i < account.account.length; i++) {
   row.setAttribute("class", "focus:outline-none rounded");
   colCheck.appendChild(divContainerCheck);
   colNick.innerHTML = nickname;
+
+  row.appendChild(colNumber);
+  row.appendChild(colId)
   row.appendChild(colNick);
-  row.appendChild(colId);
+  
   row.appendChild(colCheck);
   row.appendChild(colCopy);
   tableAccount.appendChild(row);
