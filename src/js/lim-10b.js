@@ -129,6 +129,9 @@ for (let i = 0; i < account.account.length; i++) {
   divNick.appendChild(pNick);
   colNick.appendChild(divNick);
 
+  divNumber.appendChild(pNumber);
+  colNumber.appendChild(divNumber);
+
   check.setAttribute("type", "checkbox");
   check.setAttribute("id", "check" + i);
   check.setAttribute("name", "check" + i);
