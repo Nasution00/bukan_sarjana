@@ -1270,6 +1270,7 @@ const tableAccount = document.getElementById("table-account");
 for (let i = 0; i < account.account.length; i++) {
   const id = account.account[i].id;
   const nickname = account.account[i].nickname;
+
   const row = document.createElement("tr");
   const colCheck = document.createElement("td");
   const divContainerCheck = document.createElement("div");
@@ -1283,13 +1284,23 @@ for (let i = 0; i < account.account.length; i++) {
   const colNick = document.createElement("td");
   colNick.setAttribute("class", "");
 
+  const colNumber = document.createElement("td");
+  colNumber.setAttribute("class", "");
+
+
   const divNick = document.createElement("div");
   divNick.setAttribute("class", "flex items-center");
+
+  const divNumber = document.createElement("div");
+  divNumber.setAttribute("class", "flex items-center");
 
   const pNick = document.createElement("p");
   pNick.setAttribute("class", "text-sm leading-none text-gray-600 ml-2");
 
-  pNick.innerHTML = i + 1;
+  const pNumber = document.createElement("p");
+  pNumber.setAttribute("class", "text-sm leading-none text-gray-600 ml-2");
+
+  pNumber.innerHTML = i + 1;
 
   divId.setAttribute("class", "flex items-center pl-5");
   pId.setAttribute("class", "text-base leading-none text-gray-700 mr-2");
@@ -1304,14 +1315,6 @@ for (let i = 0; i < account.account.length; i++) {
   );
   btnCopy.setAttribute("id", "btn-copy" + i);
 
-  if (id == "135912429") {
-    pId.setAttribute("class", "bg-red-300");
-    pId.setAttribute(
-      "style",
-      "text-decoration-line: line-through; text-decoration-color: blue;"
-    );
-  }
-
   btnCopy.innerHTML = "Copy";
 
   colCopy.appendChild(btnCopy);
@@ -1322,6 +1325,9 @@ for (let i = 0; i < account.account.length; i++) {
 
   divNick.appendChild(pNick);
   colNick.appendChild(divNick);
+
+  divNumber.appendChild(pNumber);
+  colNumber.appendChild(divNumber);
 
   check.setAttribute("type", "checkbox");
   check.setAttribute("id", "check" + i);
@@ -1344,9 +1350,12 @@ for (let i = 0; i < account.account.length; i++) {
   row.setAttribute("id", "row" + i);
   row.setAttribute("class", "focus:outline-none rounded");
   colCheck.appendChild(divContainerCheck);
-  // col.innerHTML = nickname;
+  colNick.innerHTML = nickname;
+
+  row.appendChild(colNumber);
+  row.appendChild(colId)
   row.appendChild(colNick);
-  row.appendChild(colId);
+  
   row.appendChild(colCheck);
   row.appendChild(colCopy);
   tableAccount.appendChild(row);
