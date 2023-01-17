@@ -64,113 +64,12 @@ const account = {
       id: "241328586",
       nickname: "-",
     },
-    {
-      id: "AkunBug",
-      nickname: "-",
-    },
-    {
-      id: "438911113",
-      nickname: "-",
-    },
-    {
-      id: "438911091",
-      nickname: "-",
-    },
-    {
-      id: "438914981",
-      nickname: "-",
-    },
-    {
-      id: "438916960",
-      nickname: "-",
-    },
-    {
-      id: "438917666",
-      nickname: "-",
-    },
-    {
-      id: "438919158",
-      nickname: "-",
-    },
-    {
-      id: "438919101",
-      nickname: "-",
-    },
-    {
-      id: "438943886",
-      nickname: "-",
-    },
-    {
-      id: "438949441",
-      nickname: "-",
-    },
-    {
-      id: "438949461",
-      nickname: "-",
-    },
-    {
-      id: "438918910",
-      nickname: "-",
-    },
-    {
-      id: "464545465",
-      nickname: "-",
-    },
-    {
-      id: "464539999",
-      nickname: "-",
-    },
-    {
-      id: "464349999",
-      nickname: "-",
-    },
-    {
-      id: "444111711",
-      nickname: "-",
-    },
-    {
-      id: "499222212",
-      nickname: "-",
-    },
-    {
-      id: "499242422",
-      nickname: "-",
-    },
-    {
-      id: "499242423",
-      nickname: "-",
-    },
-    {
-      id: "499242424",
-      nickname: "-",
-    },
-    {
-      id: "425725822",
-      nickname: "-",
-    },
-    {
-      id: "426662493",
-      nickname: "-",
-    },
-    {
-      id: "433300876",
-      nickname: "-",
-    },
-    {
-      id: "439285436",
-      nickname: "-",
-    },
-    {
-      id: "438915922",
-      nickname: "-",
-    },
-
-
-
   ],
 };
 
 const tableAccount = document.getElementById("table-account");
+const totalAccount = document.getElementById("total-account");
+totalAccount.innerHTML = account.account.length
 
 for (let i = 0; i < account.account.length; i++) {
   const id = account.account[i].id;
@@ -260,7 +159,7 @@ for (let i = 0; i < account.account.length; i++) {
   row.appendChild(colNumber);
   row.appendChild(colId)
   row.appendChild(colNick);
-  
+
   row.appendChild(colCheck);
   row.appendChild(colCopy);
   tableAccount.appendChild(row);
