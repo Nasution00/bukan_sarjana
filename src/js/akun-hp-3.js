@@ -729,7 +729,7 @@ const account = {
         {
             "id": "508851462",
             "nickname": "-"
-        }
+        },
         {
             "id": "408680853",
             "nickname": "-"
