@@ -1,9 +1,6 @@
 const account = {
     "account": [
-        {
-            "id": "408680853",
-            "nickname": "-"
-        },
+
         {
             "id": "408784144",
             "nickname": "-"
@@ -30,10 +27,6 @@ const account = {
         },
         {
             "id": "411331186",
-            "nickname": "-"
-        },
-        {
-            "id": "411497960",
             "nickname": "-"
         },
         {
@@ -70,10 +63,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "412905656",
-            "nickname": "-"
-        },
-        {
             "id": "412928682",
             "nickname": "-"
         },
@@ -84,10 +73,6 @@ const account = {
 
         {
             "id": "412932250",
-            "nickname": "-"
-        },
-        {
-            "id": "412932143",
             "nickname": "-"
         },
         {
@@ -163,11 +148,6 @@ const account = {
             "id": "413561345",
             "nickname": "-"
         },
-
-        {
-            "id": "413561693",
-            "nickname": "-"
-        },
         {
             "id": "413562292",
             "nickname": "-"
@@ -178,10 +158,6 @@ const account = {
         },
         {
             "id": "413563647",
-            "nickname": "-"
-        },
-        {
-            "id": "413564284",
             "nickname": "-"
         },
         {
@@ -210,10 +186,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "415027045",
-            "nickname": "-"
-        },
-        {
             "id": "415027260",
             "nickname": "-"
         },
@@ -238,19 +210,7 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "415735428",
-            "nickname": "-"
-        },
-        {
             "id": "415735610",
-            "nickname": "-"
-        },
-        {
-            "id": "415735807",
-            "nickname": "-"
-        },
-        {
-            "id": "415735977",
             "nickname": "-"
         },
         {
@@ -282,20 +242,7 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "415737720",
-            "nickname": "-"
-        },
-
-        {
             "id": "415738048",
-            "nickname": "-"
-        },
-        {
-            "id": "415738431",
-            "nickname": "-"
-        },
-        {
-            "id": "415738511",
             "nickname": "-"
         },
         {
@@ -336,10 +283,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "415740897",
-            "nickname": "-"
-        },
-        {
             "id": "415741262",
             "nickname": "-"
         },
@@ -353,10 +296,6 @@ const account = {
         },
         {
             "id": "416675842",
-            "nickname": "-"
-        },
-        {
-            "id": "416676135",
             "nickname": "-"
         },
         {
@@ -409,10 +348,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "507735097",
-            "nickname": "-"
-        },
-        {
             "id": "507735093",
             "nickname": "-"
         },
@@ -422,10 +357,6 @@ const account = {
         },
         {
             "id": "507859629",
-            "nickname": "-"
-        },
-        {
-            "id": "507859627",
             "nickname": "-"
         },
         {
@@ -526,10 +457,6 @@ const account = {
             "id": "508075270",
             "nickname": "-"
         },
-        {
-            "id": "507942299",
-            "nickname": "-"
-        },
 
         {
             "id": "508124253",
@@ -581,10 +508,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "508158774",
-            "nickname": "-"
-        },
-        {
             "id": "508158804",
             "nickname": "-"
         },
@@ -623,15 +546,7 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "508483100",
-            "nickname": "-"
-        },
-        {
             "id": "508483161",
-            "nickname": "-"
-        },
-        {
-            "id": "508490168",
             "nickname": "-"
         },
         {
@@ -733,10 +648,6 @@ const account = {
             "id": "508691557",
             "nickname": "-"
         },
-        {
-            "id": "508691563",
-            "nickname": "-"
-        },
 
         {
             "id": "508691582",
@@ -819,6 +730,96 @@ const account = {
             "id": "508851462",
             "nickname": "-"
         }
+        {
+            "id": "408680853",
+            "nickname": "-"
+        },
+        {
+            "id": "411497960",
+            "nickname": "-"
+        },
+        {
+            "id": "412905656",
+            "nickname": "-"
+        },
+        {
+            "id": "412932143",
+            "nickname": "-"
+        },
+        {
+            "id": "413561693",
+            "nickname": "-"
+        },
+        {
+            "id": "413564284",
+            "nickname": "-"
+        },
+        {
+            "id": "415027045",
+            "nickname": "-"
+        },
+        {
+            "id": "415735428",
+            "nickname": "-"
+        },
+        {
+            "id": "415735807",
+            "nickname": "-"
+        },
+        {
+            "id": "415735977",
+            "nickname": "-"
+        },
+        {
+            "id": "415737720",
+            "nickname": "-"
+        },
+        {
+            "id": "415738431",
+            "nickname": "-"
+        },
+        {
+            "id": "415740897",
+            "nickname": "-"
+        },
+        {
+            "id": "416676135",
+            "nickname": "-"
+        },
+        {
+            "id": "507735097",
+            "nickname": "-"
+        },
+        {
+            "id": "507859627",
+            "nickname": "-"
+        },
+        {
+            "id": "508158774",
+            "nickname": "-"
+        },
+        {
+            "id": "508483100",
+            "nickname": "-"
+        },
+        {
+            "id": "508691563",
+            "nickname": "-"
+        },
+        {
+            "id": "JANUARI",
+            "nickname": "-"
+        },
+        {
+            "id": "415738511",
+            "nickname": "20"
+        },
+        {
+            "id": "20",
+            "nickname": "-"
+        },
+
+
     ]
 }
 
