@@ -820,8 +820,8 @@ const account = {
         },
 
 
-    ]
-}
+    ],
+};
 
 const tableAccount = document.getElementById("table-account");
 const totalAccount = document.getElementById("total-account");
