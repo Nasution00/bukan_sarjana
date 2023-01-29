@@ -186,10 +186,6 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "415027260",
-            "nickname": "-"
-        },
-        {
             "id": "415027330",
             "nickname": "-"
         },
@@ -768,7 +764,7 @@ const account = {
         },
         {
             "id": "415735977",
-            "nickname": "-"
+            "nickname": "S"
         },
         {
             "id": "415737720",
@@ -1226,10 +1222,14 @@ const account = {
         },
         {
             "id": "415738511",
-            "nickname": "20"
+            "nickname": "18"
         },
         {
-            "id": "20",
+            "id": "415027260",
+            "nickname": "1"
+        },
+        {
+            "id": "19",
             "nickname": "-"
         },
 
