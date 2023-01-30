@@ -1,9 +1,6 @@
 const account = {
   account: [
-    {
-      id: "19258630",
-      nickname: "-",
-    },
+
     {
       id: "181663692",
       nickname: "-",
@@ -28,42 +25,7 @@ const account = {
       id: "143533349",
       nickname: "-",
     },
-    {
-      id: "115116755",
-      nickname: "-",
-    },
-    {
-      id: "140055696",
-      nickname: "-",
-    },
-    {
-      id: "139419367",
-      nickname: "-",
-    },
-    {
-      id: "325156706",
-      nickname: "-",
-    },
-    {
-      id: "412648892",
-      nickname: "-",
-    },
-    {
-      id: "229471804",
-      nickname: "-",
-    },
-    {
-      id: "125573588",
-      nickname: "-",
-    },
-    {
-      id: "169306261",
-      nickname: "-",
-    },
-    {
-      id: "241328586",
-      nickname: "-",
-    },
+
   ],
 };
 
