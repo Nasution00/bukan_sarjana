@@ -1225,7 +1225,7 @@ const account = {
             "nickname": "-"
         },
         {
-            "id": "FEBRUARI,
+            "id": "FEBRUARI",
             "nickname": "-"
         },
         {
