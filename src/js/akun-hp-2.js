@@ -623,26 +623,6 @@ const account = {
       id: "508851473",
       nickname: "-",
     },
-
-
-    {
-      id: "JANUARI",
-      nickname: "57",
-    },
-    {
-      id: "FEBRUARI",
-      nickname: "-",
-    },
-    {
-      id: "508959222",
-      nickname: "1",
-    },
-    {
-      id: "1B",
-      nickname: "",
-    },
-
-
     {
       id: "508367894",
       nickname: "-",
@@ -836,10 +816,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "TRAKINDO89",
-      nickname: "-",
-    },
-    {
       id: "529267435",
       nickname: "-",
     },
@@ -900,10 +876,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "ridwan19102000",
-      nickname: "-",
-    },
-    {
       id: "339967686",
       nickname: "-",
     },
@@ -929,10 +901,6 @@ const account = {
     },
     {
       id: "173382847",
-      nickname: "-",
-    },
-    {
-      id: "Manukk",
       nickname: "-",
     },
     {
@@ -988,10 +956,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "Airinku",
-      nickname: "-",
-    },
-    {
       id: "59811976",
       nickname: "-",
     },
@@ -1011,6 +975,23 @@ const account = {
       id: "377653993",
       nickname: "-",
     },
+    {
+      id: "JANUARI",
+      nickname: "57",
+    },
+    {
+      id: "FEBRUARI",
+      nickname: "-",
+    },
+    {
+      id: "508959222",
+      nickname: "1",
+    },
+    {
+      id: "1B",
+      nickname: "",
+    },
+
 
 
 
