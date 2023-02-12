@@ -1255,9 +1255,6 @@ const account = {
       id: "11",
       nickname: "-",
     },
-
-
-
   ],
 };
 

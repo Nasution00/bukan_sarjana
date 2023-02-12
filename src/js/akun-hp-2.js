@@ -1,6 +1,5 @@
 const account = {
   account: [
-
     {
       id: "356728564",
       nickname: "-",
