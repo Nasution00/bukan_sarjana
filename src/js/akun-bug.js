@@ -2,22 +2,6 @@ const account = {
     account: [
 
         {
-            id: "438919101",
-            nickname: "-",
-        },
-        {
-            id: "438943886",
-            nickname: "-",
-        },
-        {
-            id: "438949441",
-            nickname: "-",
-        },
-        {
-            id: "438949461",
-            nickname: "-",
-        },
-        {
             id: "438918910",
             nickname: "-",
         },
