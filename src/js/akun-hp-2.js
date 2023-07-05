@@ -994,22 +994,13 @@ const account = {
       nickname: "-",
     },
     {
-      id: "JUNI",
-      nickname: "-",
-    },
-    {
-      id: "325667363",
-      nickname: "4",
-    },
-    {
-      id: "JULI",
-      nickname: "1",
-    },
-    {
       id: "412928682",
       nickname: "1",
     },
-
+    {
+      id: "325667363",
+      nickname: "6",
+    },
     
   ],
 };
