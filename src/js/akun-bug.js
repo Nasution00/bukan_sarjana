@@ -3,14 +3,7 @@ const account = {
 
 
 
-        {
-            id: "319372749",
-            nickname: "-",
-        },
-        {
-            id: "320091154",
-            nickname: "-",
-        },
+ 
 
 
 
