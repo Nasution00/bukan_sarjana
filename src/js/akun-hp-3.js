@@ -454,14 +454,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "315485754",
-      nickname: "-",
-    },
-    {
-      id: "315270509",
-      nickname: "-",
-    },
-    {
       id: "302274872",
       nickname: "-",
     },
@@ -701,7 +693,35 @@ const account = {
             id: "529300248",
             nickname: "-",
         },
-    {
+        {
+            id: "531047078",
+            nickname: "-",
+        },
+        {
+            id: "529289304",
+            nickname: "-",
+        },
+        {
+            id: "316436425",
+            nickname: "-",
+        },
+        {
+            id: "300530668",
+            nickname: "-",
+        },
+        {
+            id: "300531296",
+            nickname: "-",
+        },
+       {
+            id: "319372749",
+            nickname: "-",
+        },
+        {
+            id: "320091154",
+            nickname: "-",
+        },
+   {
       id: "507859624",
       nickname: "4",
     },
@@ -725,28 +745,16 @@ const account = {
       id: "299056725",
       nickname: "2",
     },
-        {
-            id: "531047078",
-            nickname: "-",
-        },
-        {
-            id: "529289304",
-            nickname: "-",
-        },
-        {
-            id: "316436425",
-            nickname: "-",
-        },
-        {
-            id: "300530668",
-            nickname: "-",
-        },
-        {
-            id: "300531296",
-            nickname: "-",
-        },
+    {
+      id: "315485754",
+      nickname: "1",
+    },
+    {
+      id: "315270509",
+      nickname: "2",
+    },
 
-
+    
     
   ],
 };
