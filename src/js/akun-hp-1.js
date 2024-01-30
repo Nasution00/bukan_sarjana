@@ -142,10 +142,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "296392585",
-      nickname: "-",
-    },
-    {
       id: "220328923",
       nickname: "-",
     },
@@ -191,10 +187,6 @@ const account = {
     },
     {
       id: "180352965",
-      nickname: "-",
-    },
-    {
-      id: "333395838",
       nickname: "-",
     },
     {
@@ -298,19 +290,11 @@ const account = {
       nickname: "-",
     },
     {
-      id: "181659333",
-      nickname: "-",
-    },
-    {
       id: "181669248",
       nickname: "-",
     },
     {
       id: "180624238",
-      nickname: "-",
-    },
-    {
-      id: "181662268",
       nickname: "-",
     },
     {
@@ -494,10 +478,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "362820336",
-      nickname: "-",
-    },
-    {
       id: "373114613",
       nickname: "-",
     },
@@ -650,10 +630,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "282446274",
-      nickname: "-",
-    },
-    {
       id: "315707033",
       nickname: "-",
     },
@@ -710,10 +686,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "140410293",
-      nickname: "-",
-    },
-    {
       id: "405113382",
       nickname: "-",
     },
@@ -743,10 +715,6 @@ const account = {
     },
     {
       id: "283433403",
-      nickname: "-",
-    },
-    {
-      id: "258855900",
       nickname: "-",
     },
     {
@@ -953,10 +921,7 @@ const account = {
       id: "354422420",
       nickname: "-",
     },
-    {
-      id: "385869250",
-      nickname: "-",
-    },
+
     {
       id: "373136885",
       nickname: "-",
@@ -1204,6 +1169,46 @@ const account = {
     {
       id: "304625875",
       nickname: "1",
+    },
+        {
+      id: "AKUN BLOKIR",
+      nickname: "-",
+    },
+    {
+      id: "296392585",
+      nickname: "-",
+    },
+    {
+      id: "333395838",
+      nickname: "-",
+    },
+    {
+      id: "181659333",
+      nickname: "-",
+    },
+    {
+      id: "181662268",
+      nickname: "-",
+    },
+    {
+      id: "362820336",
+      nickname: "-",
+    },
+    {
+      id: "282446274",
+      nickname: "-",
+    },
+    {
+      id: "140410293",
+      nickname: "-",
+    },
+    {
+      id: "258855900",
+      nickname: "-",
+    },
+    {
+      id: "385869250",
+      nickname: "-",
     },
 
     
