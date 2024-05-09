@@ -1025,14 +1025,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "405358825",
-      nickname: "-",
-    },
-    {
-      id: "405360150",
-      nickname: "-",
-    },
-    {
       id: "521845231",
       nickname: "-",
     },
@@ -1042,6 +1034,86 @@ const account = {
     },
     {
       id: "516034023",
+      nickname: "-",
+    },
+    {
+      id: "444414421",
+      nickname: "-",
+    },
+    {
+      id: "457544401",
+      nickname: "-",
+    },
+    {
+      id: "472778867",
+      nickname: "-",
+    },
+    {
+      id: "363307479",
+      nickname: "-",
+    },
+    {
+      id: "385859719",
+      nickname: "-",
+    },
+    {
+      id: "367268747",
+      nickname: "-",
+    },
+    {
+      id: "283457720",
+      nickname: "-",
+    },
+    {
+      id: "333397099",
+      nickname: "-",
+    },
+    {
+      id: "342961318",
+      nickname: "-",
+    },
+    {
+      id: "371415062",
+      nickname: "-",
+    },
+    {
+      id: "229554254",
+      nickname: "-",
+    },
+    {
+      id: "164529971",
+      nickname: "1",
+    },
+    {
+      id: "367902693",
+      nickname: "1",
+    },
+    {
+      id: "181661623",
+      nickname: "2",
+    },
+    {
+      id: "140402670",
+      nickname: "1",
+    },
+    {
+      id: "120409831",
+      nickname: "1",
+    },
+
+           {
+      id: "AKUN SEHAT",
+      nickname: "-",
+    },
+
+
+
+    {
+      id: "405358825",
+      nickname: "-",
+    },
+    {
+      id: "405360150",
       nickname: "-",
     },
     {
@@ -1061,106 +1133,43 @@ const account = {
       nickname: "-",
     },
     {
-      id: "444414421",
-      nickname: "-",
-    },
-    {
       id: "449144194",
       nickname: "-",
-    },
-    {
-      id: "457544401",
-      nickname: "-",
-    },
+    }, 
     {
       id: "470018077",
       nickname: "-",
     },
     {
-      id: "472778867",
-      nickname: "-",
-    },
-    {
-      id: "363307479",
-      nickname: "-",
-    },
-    {
       id: "363366839",
       nickname: "-",
-    },
-    {
-      id: "385859719",
-      nickname: "-",
-    },
-    {
-      id: "367268747",
-      nickname: "-",
-    },
-    {
-      id: "283457720",
-      nickname: "-",
-    },
-    {
+    }, 
+     {
       id: "322898640",
       nickname: "-",
     },
     {
-      id: "333397099",
-      nickname: "-",
-    },
-    {
-      id: "342961318",
-      nickname: "-",
-    },
-    {
-      id: "371415062",
-      nickname: "-",
-    },
-    {
-      id: "229554254",
-      nickname: "-",
-    },
-
-    {
       id: "362457657",
       nickname: "2",
-    },
-    {
-      id: "164529971",
-      nickname: "1",
     },
     {
       id: "229471804",
       nickname: "3",
     },
     {
-      id: "367902693",
-      nickname: "1",
-    },
-    {
       id: "282458824",
       nickname: "1",
-    },
-    {
-      id: "181661623",
-      nickname: "2",
     },
     {
       id: "338897652",
       nickname: "2",
     },
     {
-      id: "140402670",
-      nickname: "1",
-    },
-    {
-      id: "120409831",
-      nickname: "1",
-    },
-    {
       id: "304625875",
       nickname: "1",
     },
+
+
         {
       id: "AKUN BLOKIR",
       nickname: "-",
