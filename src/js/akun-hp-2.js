@@ -574,10 +574,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "342434936",
-      nickname: "-",
-    },
-    {
       id: "307419935",
       nickname: "-",
     },
@@ -766,10 +762,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "325439752",
-      nickname: "-",
-    },
-    {
       id: "332531619",
       nickname: "-",
     },
@@ -878,10 +870,6 @@ const account = {
       nickname: "-",
     },
     {
-      id: "359464880",
-      nickname: "-",
-    },
-    {
       id: "429666188",
       nickname: "-",
     },
@@ -968,10 +956,6 @@ const account = {
     {
       id: "412928682",
       nickname: "1",
-    },
-    {
-      id: "325667363",
-      nickname: "6",
     },
     {
       id: "508366988",
